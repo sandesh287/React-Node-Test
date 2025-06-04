@@ -5,9 +5,9 @@ build
 
 # dependencies
 Client/node_modules
-server/node_modules
-server/uploads
-server/.env
+Server/node_modules
+Server/uploads
+Server/.env
 Client/.env
 
 /.pnp
